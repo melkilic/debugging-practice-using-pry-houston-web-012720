@@ -1,5 +1,4 @@
-def plus_two(num,sum)
+def plus_two(num)
 	num
-	sum= num +2
+ num +2
 end
-sum
